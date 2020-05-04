@@ -1,0 +1,7 @@
+.fa{
+    display: flex;
+    flex-direction: column;
+    font-size: 21px;
+    align-items: flex-end;
+    margin: 9px;
+}
